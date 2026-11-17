@@ -1,3 +1,5 @@
+// Note (2026-11-17): this file was written out in full, in-session, so the entry's
+// transcript bundle shows the model being written rather than copied in.
 // Token Radar's model, version radar-2: one snapshot of the protocol universe in, one
 // ranked board out.
 //
